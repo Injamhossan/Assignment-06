@@ -1,3 +1,5 @@
+# Live link: https://green-earth-ih.netlify.app/
+
 # JavaScript ES6 Quick Notes
 
 ## 1) var vs let vs const
