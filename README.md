@@ -10,7 +10,7 @@ Slogan: "Plant a Tree, Grow a Future."
 
 Mission: The text mentions a goal to plant 1 million trees to make the Earth greener.
 
-Visuals: It uses a light green background with realistic palm leaves to create an eco-friendly aesthetic.
+Visuals: It features a light green background with realistic palm leaves, creating an eco-friendly aesthetic.
 
 CTA: There is a "Get Involved" button.
 
